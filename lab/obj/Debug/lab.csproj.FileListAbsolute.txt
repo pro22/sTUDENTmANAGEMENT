@@ -1,0 +1,13 @@
+c:\users\asus\documents\visual studio 2013\Projects\lab\lab\bin\Debug\lab.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\lab\lab\bin\Debug\lab.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\lab\lab\bin\Debug\lab.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\lab\lab\obj\Debug\lab.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\lab\lab\obj\Debug\lab.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\lab\lab\obj\Debug\lab.Form3.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\lab\lab\obj\Debug\lab.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\lab\lab\obj\Debug\lab.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\lab\lab\obj\Debug\lab.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\lab\lab\obj\Debug\lab.pdb
+D:\visual\lab\lab\bin\Debug\lab.exe.config
+D:\visual\lab\lab\obj\Debug\lab.exe
+D:\visual\lab\lab\obj\Debug\lab.pdb
